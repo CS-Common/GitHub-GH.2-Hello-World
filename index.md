@@ -8,21 +8,20 @@
 
 ## Overview
 
-<img src="https://imgs.xkcd.com/comics/git.png" align="right"> Today you are going to create an account on [GitHub][] (contol-click on this link to open it in another tab) one of the better known sites for hosting [Git][] repositories. Git is a _source code management_ system – a tool to help keep track of the change in software projects, like Unity games. When things go wrong, git can help you figure out what changed, and who change it. That's the first step towards fixing it.
+<img src="https://imgs.xkcd.com/comics/git.png" align="right"> In the last lesson you created an account on [GitHub][] (contol-click on this link to open it in another tab) to hold your [Git][] repositories. Typically each project you are working on will be a *repository* on GitHub. Many of your assignments in this class will also be based on Git repositories on GitHub.
 
-In the [last lesson][#] you set up an account on GitHub. Here is an overview of what you will be doing in this lesson:
+In the [last lesson][#] you set up an account on GitHub. Make sure you have completed it and have made any corrections requested in the feedback.
 
+Here is an overview of what you will be doing in this lesson:
+
+* Read an overview of the Git/GitHUb *workflow.*
 * Practice working with Git and GitHub.
-* Turn on the [GitHub Pages][gh-pages] web site – we'll use this later to host our games.
-* Practice by making a few changes to your website.
-
-To finish this assignment you will need a working e-mail account that you can access. If you alread have one, that's great, use it. Otherwise, you will need to set one up. Until you verify your e-mail address, your GitHub Pages site will not be active. You can do everything else without a working e-mail.
 
 ## First Things First
 
 In order to complete this assignment:
 
-1. Make sure you have a working e-mail account where you can check your e-mail.
+1. Make sure you have (or are working on getting) an e-mail account where you can check your e-mail.
 1. Complete the GitHub account setup assignment.
 
 ## The Details:
@@ -44,13 +43,6 @@ Congratulations, you're rolling!
 
 When you are done, submit the assignment:
 
-* Copy the URL of your Hello World repository, then copy the submission URL.
-* On Canvas (you're here, right?) paste the URL into the submission box.
-* At the end of class, in your notebook, reflect on how it went today:
-  - Select the next blank page and date it and title it "Starting GitHub" would not be a bad choice of title for today.
-  - What is something that "clicked" for your? Perhaps, how do you think we might use Git and GitHub on our final project?
-  - Did you get stuck or lost today? Where? Do you know why?
-  - What do you need to do next?
  
 
 [github]: <https://github.com>
