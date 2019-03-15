@@ -1,6 +1,8 @@
 ---
 ---
 
+[//]: # ( <p><iframe src="https://douglasurner.github.io/CS-Common/GitHub-GH.2-hello-world/" width="100%" height="666px"></iframe></p> )
+
 [slides]: #
 [template]: #
 
