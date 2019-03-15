@@ -3,7 +3,7 @@
 
 [//]: # ( <p><iframe src="https://douglasurner.github.io/CS-Common/GitHub-GH.2-hello-world/" width="100%" height="666px"></iframe></p> )
 
-[slides]: #
+[slides]: https://docs.google.com/presentation/d/1gRfw004oRzXaSa4dFhq1jW57jOhVlN2YzjvCv16p1yw/edit?usp=sharing
 [template]: https://docs.google.com/document/d/1ihy2zS6PXiOuL69LRaoydITfF8AVuKpHN5QWnV-YDic/edit?usp=sharing
 
 ## Overview
